@@ -7,18 +7,18 @@ export default function Contact() {
       <Card className="bg-white p-6 rounded-lg shadow-md">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
-            <h3 className="text-xl font-semibold mb-2 text-green-600">Our Office</h3>
+            <h3 className="text-xl font-semibold mb-2 text-green-600">Our Collage</h3>
             <address className="not-italic">
-              <p>EcoGuard Organization</p>
-              <p>123 Green Street, Eco City, EC 12345</p>
-              <p>United States</p>
+              <p>A.V.C.O.E. Sangamner</p>
+              <p>Amrutnagar, Ghulewadi, Sangamner</p>
+              <p>maharashtra, India</p>
             </address>
           </div>
           <div>
             <h3 className="text-xl font-semibold mb-2 text-green-600">Get in Touch</h3>
-            <p>Phone: (555) 123-4567</p>
-            <p>Email: info@ecoguard.org</p>
-            <p>Hours: Monday-Friday, 9am-5pm EST</p>
+            <p>Phone: +919657201665</p>
+            <p>Email: harshdurgude2006@gmail.com</p>
+            <p>Sangamner</p>
           </div>
         </div>
         {/* <div className="mt-6">

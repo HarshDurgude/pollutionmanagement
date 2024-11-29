@@ -8,8 +8,8 @@ export default function Report() {
         <p className="mb-4">
           If you witness any violation of pollution laws, please report it to our dedicated email address:
         </p>
-        <a href="mailto:report@ecoguard.org" className="text-blue-500 hover:underline">
-          report@ecoguard.org
+        <a href="mailto:ecoguard.report@gmail.com" className="text-blue-500 hover:underline">
+          ecoguard.report@gmail.com
         </a>
         <p className="mt-4">
           Your report can make a significant difference in protecting our environment. Please include the following information in your report:
