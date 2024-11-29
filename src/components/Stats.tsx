@@ -30,7 +30,7 @@ export default function Stats() {
 
   return (
     <section id="stats" className="my-12">
-      <h2 className="text-3xl font-bold mb-6 text-center">Shocking Pollution Facts</h2>
+      <h2 className="text-3xl font-bold mb-6 text-center">Stats about pollution</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {stats.map((stat, index) => (
           <Card key={index} className="bg-white p-6 rounded-lg shadow-md">

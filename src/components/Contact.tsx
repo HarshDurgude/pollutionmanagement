@@ -7,7 +7,7 @@ export default function Contact() {
       <Card className="bg-white p-6 rounded-lg shadow-md">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
-            <h3 className="text-xl font-semibold mb-2 text-green-600">Our Collage</h3>
+            <h3 className="text-xl font-semibold mb-2 text-green-600">Our College</h3>
             <address className="not-italic">
               <p>A.V.C.O.E. Sangamner</p>
               <p>Amrutnagar, Ghulewadi, Sangamner</p>
@@ -15,10 +15,13 @@ export default function Contact() {
             </address>
           </div>
           <div>
-            <h3 className="text-xl font-semibold mb-2 text-green-600">Get in Touch</h3>
-            <p>Phone: +919657201665</p>
-            <p>Email: harshdurgude2006@gmail.com</p>
-            <p>Sangamner</p>
+            <h3 className="text-xl font-semibold mb-2 text-green-600">Our Team</h3>
+              <p>Members:</p>
+              <p>Harshal Durgude, Harshal edke </p>
+              <p>Nikhil Dukre, Pratiksha Duche</p>
+              <p>Mail : <a href="mailto:ecoguard.report@gmail.com" className="text-blue-500 hover:underline">
+          ecoguard.report@gmail.com
+        </a></p>
           </div>
         </div>
         {/* <div className="mt-6">

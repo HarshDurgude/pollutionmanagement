@@ -39,7 +39,7 @@ export default function Header() {
     <header className="bg-white shadow-md sticky top-0 z-10">
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-4">
-          <div className="text-2xl font-bold text-green-600">EcoGuard</div>
+          <div className="text-2xl font-bold text-green-600">Eco<span className="text-blue-500">Guard</span></div>
           <nav className="hidden md:flex space-x-4">
             {menuItems.map((item) => (
               <Link

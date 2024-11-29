@@ -7,9 +7,9 @@ import Contact from '@/components/Contact'
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gray-100 text-gray-800">
+    <div className="min-h-screen bg-blue-100 text-gray-800">
       <Header />
-      <main className="container mx-auto px-4 py-8">
+      <main className="container mx-auto px-4 py-8 ">
         <Stats />
         <Techniques />
         <Resources />
